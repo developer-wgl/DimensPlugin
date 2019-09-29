@@ -1,12 +1,12 @@
 <idea-plugin>
   <id>mi.wuguagnliang.plugin.dimens</id>
-  <name>Automatically generate other corresponding dimens files according to the default dimens file.</name>
-  <version>1.0</version>
-  <vendor email="v-wuguagnliang@xiaomi.com" url="https://www.wuguangliang.xyz/userself">mi</vendor>
+  <name>DimensPlugin</name>
+  <version>1.0.1</version>
+  <vendor email="v-wuguagnliang@xiaomi.com" url="https://github.com/developer-wgl/DimensPlugin">GitHub</vendor>
 
   <description>Automatically generate other corresponding dimens files according to the default dimens file.</description>
 
-  <change-notes>Nothing</change-notes>
+  <change-notes>Details：https://github.com/developer-wgl/DimensPlugin</change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="173.0"/>
